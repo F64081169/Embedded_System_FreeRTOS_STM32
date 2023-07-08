@@ -1,0 +1,6 @@
+heap_2.c:148:7:pvPortMalloc	144	static
+heap_2.c:247:6:vPortFree	40	static
+heap_2.c:274:8:xPortGetFreeHeapSize	4	static
+heap_2.c:280:6:vPortInitialiseBlocks	4	static
+heap_2.c:286:13:prvHeapInit	16	static
+heap_2.c:311:6:vPrintFreeList	112	static

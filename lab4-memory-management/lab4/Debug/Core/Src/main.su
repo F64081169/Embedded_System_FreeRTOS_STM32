@@ -1,0 +1,12 @@
+main.c:59:6:red_LED_task	16	static
+main.c:67:6:green_LED_task	16	static
+main.c:75:6:task1	16	static
+main.c:83:6:task2	16	static
+main.c:90:6:task3	16	static
+main.c:97:6:print_task	16	static
+main.c:110:5:main	16	static
+main.c:160:6:SystemClock_Config	88	static
+main.c:205:13:MX_USART2_UART_Init	8	static
+main.c:238:13:MX_GPIO_Init	56	static
+main.c:383:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:400:6:Error_Handler	4	static,ignoring_inline_asm
